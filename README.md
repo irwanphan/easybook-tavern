@@ -2,8 +2,6 @@
 
 Distribusi publik installer **EasyBook** — ERP desktop offline untuk UMKM (Windows & macOS).
 
-Repo ini **bukan** source code. Source ada di repo private. Tavern hanya menampung **GitHub Releases** berisi binary yang siap diunduh dari landing page.
-
 ## Unduh
 
 **Rilis terbaru:** https://github.com/irwanphan/easybook-tavern/releases/latest
